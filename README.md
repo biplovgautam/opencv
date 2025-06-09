@@ -1,1 +1,1 @@
-#getting started with open cv
+# getting started with OpenCv
