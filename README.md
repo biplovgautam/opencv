@@ -15,8 +15,18 @@ This repository contains practical mini-projects using OpenCV to explore core co
 
 ---
 
+## ✅ Step 2: HDR Imaging
+
+- Loaded multiple exposure images
+- Created HDR image using OpenCV HDR algorithms
+- Output saved as `hdr.png`
+
+### 🖼️ Output:
+![hdr](hdr.png)
+
+---
+
 ## 🛠️ Upcoming Steps
-- HDR imaging
 - Object tracking
 - Keypoint visualization
 - Perspective transforms
