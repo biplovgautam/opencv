@@ -44,7 +44,20 @@ This repository contains practical mini-projects using OpenCV to explore core co
 - Initialized tracker with bounding box and tracked object across video frames  
 - Visualized tracking results and saved output video
 
+### 🖼️ Output:  
+![object_tracking](object_tracking_screenshot.png)
 
+---
+
+## ✅ Step 5: Deep Learning Object Detection
+
+- Utilized TensorFlow-based SSD MobileNet v2 model  
+- Detected multiple object classes (people, cars, bicycles, etc.)  
+- Applied confidence threshold to filter detections  
+- Visualized bounding boxes with class labels
+
+### 🖼️ Output:  
+![object_detection](object_detection.png)
 
 ---
 
