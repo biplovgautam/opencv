@@ -61,6 +61,18 @@ This repository contains practical mini-projects using OpenCV to explore core co
 
 ---
 
+## ✅ Step 6: Human Pose Estimation with OpenPose
+
+- Implemented OpenPose deep learning model using OpenCV  
+- Utilized pre-trained Caffe model for skeleton-based pose detection  
+- Detected key body points with confidence scores  
+- Connected points to visualize human pose skeleton
+
+### 🖼️ Output:  
+![pose_detection](posecheck.png)
+
+---
+
 ## 🛠️ Upcoming Steps
 
 - Keypoint visualization  
